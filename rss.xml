@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[mkuhnt]]></title>
+        <description><![CDATA[mkuhnt]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 26 Nov 2015 16:58:13 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The M9 is fast enough for me.]]></title>
+            <description><![CDATA[<article><h1>The M9 is fast enough for me.</h1><p>I am using a Leica M9 for my photography. Yes it is already a camera with a digital sensor but it is still to a large extend a manual user interface. I need to focus manually and I typically even define exposure myself.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/703f5e7d-4b98-42ce-8b27-26b60fd8b76e.jpg"></article>]]></description>
+            <link>undefinedthe-m9-is-fast-enough-for-me/index.html</link>
+            <guid isPermaLink="false">e70f00e5-9a1a-4866-9036-eda370980a2e</guid>
+            <pubDate>Thu, 26 Nov 2015 16:57:16 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
