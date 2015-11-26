@@ -1,12 +1,12 @@
 ---
 description: ''
 author: []
-datePublished: '2015-11-26T17:08:19.858Z'
+datePublished: '2015-11-26T17:08:30.300Z'
 publisher:
   domain: ''
   name: ''
 title: "Don't take yourself to serious"
-dateModified: '2015-11-26T17:05:44.128Z'
+dateModified: '2015-11-26T17:08:19.858Z'
 sourcePath: _posts/2015-11-26-dont-take-yourself-to-serious.md
 published: true
 inFeed: true
