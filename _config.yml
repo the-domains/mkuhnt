@@ -1,7 +1,7 @@
 name: mkuhnt
 favicon: null
-layout_spectrum: 0.3030303716659546
-typography_spectrum: 0.51257
+layout_spectrum: 0.49395
+typography_spectrum: 0.20477
 collections:
   - index:
       path: /
@@ -28,13 +28,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
+    - '#ffffff'
+    - '#a3cdff'
+    - '#080913'
+    - '#d09f96'
+    - '#973f47'
   brandStrength: 0.3861117688938975
   lightness: 0.1727838153019547
-  saturation: 0.6725034662522376
+  saturation: 0.8125
   rhythmicContrast: 0.9427330349572003
 purpose: []
