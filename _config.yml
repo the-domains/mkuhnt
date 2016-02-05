@@ -1,40 +1,40 @@
-name: mkuhnt
 favicon: null
-layout_spectrum: 0.49395
-typography_spectrum: 0.20477
+name: mkuhnt
+opengraph:
+  image: null
+  type: null
+  appId: null
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+    permalink:
+      path: '/:title/'
+purpose: []
 color:
+  saturation: 0.6664876
+  brandStrength: 0.3861117688938975
+  lightness: 0.7244898
   brandColors:
     - '#ffffff'
     - '#a3cdff'
     - '#080913'
     - '#d09f96'
     - '#973f47'
-  brandStrength: 0.3861117688938975
-  lightness: 0.1727838153019547
-  saturation: 0.8125
-  rhythmicContrast: 0.9427330349572003
-purpose: []
+  rhythmicContrast: 0.7384533
+typography_spectrum: 0.4892589
+layout_spectrum: 0.7083781
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+cta:
+  bucket: null
+  version: null
+  domain: null
